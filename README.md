@@ -1,2 +1,2 @@
 # practice
-some pacetice, test, save for a while, etc.
+some pacetices, tests, or something other saved for a while, etc.
