@@ -1,3 +1,4 @@
+
 # my-practice
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# practice
+some pacetices, tests, or something other saved for a while, etc.
